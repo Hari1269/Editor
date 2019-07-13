@@ -117,7 +117,7 @@ img.img-intro{
 }
 
 #grad1 {
-  height: 150px;
+  height: 100px;
   background-color: #F2A62D; /* For browsers that do not support gradients */
   background-image: linear-gradient(to bottom right, #F2A62D, #F1822B); /* Standard syntax (must be last) */
 }
