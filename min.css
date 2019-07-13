@@ -125,6 +125,6 @@ img.img-intro{
 @font-face {  
     src: url(Carnas_Bold_Italic.otf) format("truetype");
 }
-div.FontMarket { 
-    font-family:  Market Deco;
+a.FontMarket { 
+    font-family: Carnas-Boldit;
 }
