@@ -121,3 +121,10 @@ img.img-intro{
   background-color: #F2A62D; /* For browsers that do not support gradients */
   background-image: linear-gradient(to bottom right, #F2A62D, #F1822B); /* Standard syntax (must be last) */
 }
+
+@font-face {  
+    src: url(Carnas_Bold_Italic.otf) format("truetype");
+}
+div.FontMarket { 
+    font-family:  Market Deco;
+}
