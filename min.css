@@ -119,5 +119,5 @@ img.img-intro{
 #grad1 {
   height: 200px;
   background-color: red; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to bottom right, red, yellow); /* Standard syntax (must be last) */
+  background-image: linear-gradient(to bottom right, #F2A62D, #F1822B); /* Standard syntax (must be last) */
 }
